@@ -32,3 +32,4 @@ stamp-h1
 /build
 *.exe
 /bii/build/
+/bii/
